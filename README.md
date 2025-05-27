@@ -6,5 +6,5 @@ create bullet points with stars
 * second Bullet points
 
 I wanna create a code block
-''' here we are
+``` here we are
 print("Hello NF")
