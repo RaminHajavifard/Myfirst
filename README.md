@@ -8,5 +8,4 @@ create bullet points with stars
 I wanna create a code block
 ``` here we are
 print("Hello NF")
-to include a picture picture
 ```
